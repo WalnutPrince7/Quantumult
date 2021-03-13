@@ -14,6 +14,6 @@ proxies:
   - {name: 耗子尾汁12, server: proxy.plusmedia.site, port: 58081, type: ss, country:us US, cipher: rc4-md5, password: ieG9l1nte5eo7IBZas84jLi}
   - {name: 耗子尾汁13, server: music.desperadoj.com, port: 30001, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_emx2}
   - {name: 耗子尾汁14, server: music.desperadoj.com, port: 30003, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_emx2}
-  - {name: 耗子尾汁15 server: music.desperadoj.com, port: 30001, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_vrfn}
+  - {name: 耗子尾汁15  server: music.desperadoj.com, port: 30001, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_vrfn}
   - {name: 耗子尾汁16, server: blockmusic.poetyin.me, port: 30003, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_x80j}
   - {name: 耗子尾汁17, server: music.griouges.cn, port: 39000, type: http, country:cn CN, tls: false, skip-cert-verify: false}
