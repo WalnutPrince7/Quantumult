@@ -1,18 +1,18 @@
-#耗子为汁
-  - {name: ?? NetEase CloudMusic 1, server: lolico.me, port: 443, type: http, country:us US, tls: false, skip-cert-verify: false}
-  - {name: ?? NetEase CloudMusic2, server: xbmmw.xyz, port: 666, type: http, country:cn CN, tls: false, skip-cert-verify: false}
-  - {name: ?? NetEase CloudMusic3, server: xbmmw.xyz, port: 1001, type: http, country:cn CN, tls: false, skip-cert-verify: false}
-  - {name: ?? NetEase CloudMusic4, server: 106.52.127.72, port: 19951, type: http, country:cn CN, tls: false, skip-cert-verify: false}
-  - {name: ?? NetEase CloudMusic5, server: music.lolico.me, port: 39000, type: http, country:cn CN, tls: false, skip-cert-verify: false}
-  - {name: ?? NetEase CloudMusic6, server: music.griouges.cn, port: 39000, type: http, country:cn CN, tls: false, skip-cert-verify: false}
-  - {name: ?? NetEase CloudMusic7, server: block4music.poetyin.me, port: 39000, type: http, country:cn CN, tls: false, skip-cert-verify: false}
-  - {name: ?? NetEase CloudMusic8, server: xbmmw.xyz, port: 5691, type: ss, country:cn CN, cipher: aes-128-gcm, password: QQ3203434182}
-  - {name: ?? NetEase CloudMusic9, server: sdwan-a.getluffy.cloud, port: 11000, type: ss, country:cn CN, cipher: rc4-md5, password: b22Uqr}
-  - {name: ?? NetEase CloudMusic10, server: proxy.plusmedia.site, port: 58080, type: ss, country:us US, cipher: rc4-md5, password: ieG9l1nte5eo7IBZas84jLi}
-  - {name: ?? NetEase CloudMusic11, server: proxy.plusmedia.site, port: 58081, type: ss, country:us US, cipher: rc4-md5, password: ieG9l1nte5eo7IBZas84jLi}
-  - {name: ?? NetEase CloudMusic12, server: music.desperadoj.com, port: 30001, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_emx2}
-  - {name: ?? NetEase CloudMusic13, server: music.desperadoj.com, port: 30003, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_emx2}
-  - {name: ?? NetEase CloudMusic14, server: music.desperadoj.com, port: 30001, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_vrfn}
-  - {name: ?? NetEase CloudMusic15, server: blockmusic.poetyin.me, port: 30003, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_x80j}
-  - {name: ?? NetEase CloudMusic16 server: lolico.me, port: 443, type: http, country:us US, tls: false, skip-cert-verify: false}
-  - {name: ?? NetEase CloudMusic17 server: aimer.one, port: 2333, type: http, country:cn CN, tls: false, skip-cert-verify: false}
+#耗子尾汁
+  - {name:  NetEase CloudMusic 1, server: lolico.me, port: 443, type: http, country:us US, tls: false, skip-cert-verify: false}
+  - {name:  NetEase CloudMusic2, server: xbmmw.xyz, port: 666, type: http, country:cn CN, tls: false, skip-cert-verify: false}
+  - {name:  NetEase CloudMusic3, server: xbmmw.xyz, port: 1001, type: http, country:cn CN, tls: false, skip-cert-verify: false}
+  - {name:  NetEase CloudMusic4, server: 106.52.127.72, port: 19951, type: http, country:cn CN, tls: false, skip-cert-verify: false}
+  - {name:  NetEase CloudMusic5, server: music.lolico.me, port: 39000, type: http, country:cn CN, tls: false, skip-cert-verify: false}
+  - {name:  NetEase CloudMusic6, server: music.griouges.cn, port: 39000, type: http, country:cn CN, tls: false, skip-cert-verify: false}
+  - {name:  NetEase CloudMusic7, server: block4music.poetyin.me, port: 39000, type: http, country:cn CN, tls: false, skip-cert-verify: false}
+  - {name:  NetEase CloudMusic8, server: xbmmw.xyz, port: 5691, type: ss, country:cn CN, cipher: aes-128-gcm, password: QQ3203434182}
+  - {name:  NetEase CloudMusic9, server: sdwan-a.getluffy.cloud, port: 11000, type: ss, country:cn CN, cipher: rc4-md5, password: b22Uqr}
+  - {name:  NetEase CloudMusic10, server: proxy.plusmedia.site, port: 58080, type: ss, country:us US, cipher: rc4-md5, password: ieG9l1nte5eo7IBZas84jLi}
+  - {name:  NetEase CloudMusic11, server: proxy.plusmedia.site, port: 58081, type: ss, country:us US, cipher: rc4-md5, password: ieG9l1nte5eo7IBZas84jLi}
+  - {name:  NetEase CloudMusic12, server: music.desperadoj.com, port: 30001, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_emx2}
+  - {name:  NetEase CloudMusic13, server: music.desperadoj.com, port: 30003, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_emx2}
+  - {name:  NetEase CloudMusic14, server: music.desperadoj.com, port: 30001, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_vrfn}
+  - {name:  NetEase CloudMusic15, server: blockmusic.poetyin.me, port: 30003, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_x80j}
+  - {name:  NetEase CloudMusic16 server: lolico.me, port: 443, type: http, country:us US, tls: false, skip-cert-verify: false}
+  - {name:  NetEase CloudMusic17 server: aimer.one, port: 2333, type: http, country:cn CN, tls: false, skip-cert-verify: false}
