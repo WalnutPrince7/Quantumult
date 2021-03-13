@@ -1,6 +1,6 @@
 #耗子尾汁
 proxies:
-  - {name:NetEaseCloudMusic 1, server: lolico.me, port: 443, type: http, country:us US, tls: false, skip-cert-verify: false}
+  - {name:NetEaseCloudMusic1, server: lolico.me, port: 443, type: http, country:us US, tls: false, skip-cert-verify: false}
   - {name:NetEaseCloudMusic2, server: xbmmw.xyz, port: 666, type: http, country:cn CN, tls: false, skip-cert-verify: false}
   - {name:NetEaseCloudMusic3, server: xbmmw.xyz, port: 1001, type: http, country:cn CN, tls: false, skip-cert-verify: false}
   - {name:NetEaseCloudMusic4, server: 106.52.127.72, port: 19951, type: http, country:cn CN, tls: false, skip-cert-verify: false}
